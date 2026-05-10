@@ -124,9 +124,9 @@ knowledge_base/
 
 ## 七、文档
 
-- [产品需求文档 PRD](./docs/prd.docx)
-- [Dify 编排手册](./docs/dify-guide.docx)
-- [知识库构建规范](./docs/kb-design.md)
+- [产品需求文档 PRD](.sales_copilot_prd.pdf)
+- [Dify 编排手册](.dify_guide.docx)
+
 
 ---
 
