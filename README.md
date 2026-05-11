@@ -126,7 +126,7 @@ knowledge_base/
 
 - [产品需求文档 PRD](./sales_copilot_prd.pdf)
 - [Dify 编排手册](./dify_guide.pdf)
-- [Dify编排完整截图（.dify_chatflow.png]
+- [Dify编排完整截图（./dify_chatflow.png]
 
 
 ---
